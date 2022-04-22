@@ -94,7 +94,7 @@ ul{
     color: var(--logo-multicolor);
 }
 
-.nav-item{
+.nav-list{
     display: flex;
 }
 
